@@ -15,7 +15,7 @@ We're throwing a party on September 11 to celebrate making it through a couple o
 
 There will be music, singing, and merriment in the garden. 
 
-You should be there, it's going to be awesome!
+You should be there, it's going to be fun!
 
 ---
 
@@ -24,7 +24,7 @@ You should be there, it's going to be awesome!
 Saturday September 11, 2021
 [38 Savannah Rd, San Anselmo, CA](https://www.google.com/maps/place/38+Savannah+Rd,+San+Anselmo,+CA+94960/@37.9777021,-122.5754974,17z/data=!3m1!4b1!4m5!3m4!1s0x8085971a3832def7:0xe23bef4efbf62a13!8m2!3d37.9776979!4d-122.5733087)
 
-Party starts a 2 PM and will be going late.
+Party starts at 2 PM and will be going late.
 
 ## Important parking note
 
@@ -43,7 +43,11 @@ Parking is extremely limited at the house! Please park [down the hill on San Ans
 
 **How about my dog?** Sadly we ask for your pups to stay home that day.
 
-**But I'm not a musician!** That's great, me neither! There will be some participatory singing (see [the songlist](#songlist)), but otherwise it's a normal party.
+**Should I bring wine?** Yes.
+
+**Will there be food?** We'll provide some grill staples, but please bring anything special and specific if you'd like!
+
+**But I'm not a musician!** That's great, me neither! There will be some (optional though encouraged) participatory singing (see [the songlist](https://open.spotify.com/playlist/7iQ7uCzqV50nDf81CYzxfT?si=77c32e80cf97406a)), but otherwise it's a normal party.
 
 **I am a musician! Should I bring my Eurorack modular? How about my bouzouki? Crumhorn?** Most of the musician people coming play Irish and/or American folk music, so if you're down to hang in those traditons, yes! Otherwise, there will be more information forthcoming about participation.
 
