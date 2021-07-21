@@ -37,7 +37,7 @@ Please let me know if you're able to make it, and if so how many friends / partn
 --- 
 # FAQ
 
-**I'm not vaccinated for COVID-19, is that okay?** Please stay home if you're not vaccinated.
+**I'm not vaccinated for COVID-19, is that okay?** Please stay home if you're not vaccinated (except for the under-12 set).
 
 **Will there be flower crowns?** Yes, there will be flower crowns.
 
