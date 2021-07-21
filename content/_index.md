@@ -33,6 +33,8 @@ Parking is extremely limited at the house! Please park [down the hill on San Ans
 --- 
 # FAQ
 
+**I'm not vaccinated for COVID-19, is that okay?** Please stay home if you're not vaccinated.
+
 **Will there be flower crowns?** Yes, there will be flower crowns.
 
 **Will there be a keg?** Yes, probably.
