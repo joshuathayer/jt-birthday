@@ -30,6 +30,10 @@ Party starts at 2 PM and will be going late.
 
 Parking is extremely limited at the house! Please park [down the hill on San Anselmo Ave](https://www.google.com/maps/dir/Yolanda+Station,+San+Anselmo,+CA+94960/38+Savannah+Road,+San+Anselmo,+CA/@37.9780242,-122.5743984,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x8085975ae268cceb:0xe034dd47dce17fec!2m2!1d-122.5721962!2d37.9794927!1m5!1m1!1s0x8085971a3832def7:0xe23bef4efbf62a13!2m2!1d-122.5733087!2d37.9776979!3e2). We'll be running a shuttle (please text Josh at (415) 307-2876 for a lift), but it's a quick and pleasant walk back up the hill to the house as shown. Of course, feel free to drop off people and head back down the hill.
 
+## RSVP!
+
+Please let me know if you're able to make it, and if so how many friends / partners / kids / parents / others you're thinking of bringing. I want to know how much I should worry about the cops coming. joshuamilesthayer@gmail.com
+
 --- 
 # FAQ
 
