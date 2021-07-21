@@ -4,7 +4,7 @@ header_tagline_paragraph: "Saturday, September 11, 2021
 
 38 Savannah Rd, San Anselmo CA
 
-3PM - Late"
+2PM - Late"
 
 teaser_image: "images/1986.jpg" 
 ---
@@ -55,3 +55,4 @@ Parking is extremely limited at the house! Please park [down the hill on San Ans
 
 ---
 
+We're so excited to see you all, and hope you can make it!
