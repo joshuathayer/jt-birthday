@@ -1,55 +1,51 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
-header_button_cta:
-  url: "#contact-form"
-  title: "Get in touch"
-header_button_more:
-  url: "#the-future---today"
-  title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+header_brand: "Come celebrate summer, the reemergence, and Josh's birthday"
+header_tagline_paragraph: "Saturday, September 11, 2021
+
+38 Savannah Rd, San Anselmo CA
+
+3PM - Late"
+
+teaser_image: "images/1986.jpg" 
 ---
 
-# The Future - Today!
+# A party!
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+We're throwing a party on September 11 to celebrate making it through a couple of rough years, the glory of September in California (assuming the air is breathable), and Josh's 46th birthday.
 
----
+There will be music, singing, and merriment in the garden. 
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
-
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+You should be there, it's going to be awesome!
 
 ---
 
-# Prototype
+# Details
 
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
+Saturday September 11, 2021
+[38 Savannah Rd, San Anselmo, CA](https://www.google.com/maps/place/38+Savannah+Rd,+San+Anselmo,+CA+94960/@37.9777021,-122.5754974,17z/data=!3m1!4b1!4m5!3m4!1s0x8085971a3832def7:0xe23bef4efbf62a13!8m2!3d37.9776979!4d-122.5733087)
 
-![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
+Party starts a 2 PM and will be going late.
 
-Check out this sweet preview. Impressed much, are you?
+## Important parking note
+
+Parking is extremely limited at the house! Please park [down the hill on San Anselmo Ave](https://www.google.com/maps/dir/Yolanda+Station,+San+Anselmo,+CA+94960/38+Savannah+Road,+San+Anselmo,+CA/@37.9780242,-122.5743984,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x8085975ae268cceb:0xe034dd47dce17fec!2m2!1d-122.5721962!2d37.9794927!1m5!1m1!1s0x8085971a3832def7:0xe23bef4efbf62a13!2m2!1d-122.5733087!2d37.9776979!3e2). We'll be running a shuttle (please text Josh at (415) 307-2876 for a lift), but it's a quick and pleasant walk back up the hill to the house as shown. Of course, feel free to drop off people and head back down the hill.
+
+--- 
+# FAQ
+
+**Will there be flower crowns?** Yes, there will be flower crowns.
+
+**Will there be a keg?** Yes, probably.
+
+**Will there be a bike ride?** Bike friends are encouraged to coordinate and ride in Marin that morning. Unfortunately Josh is going to be busy icing the keg and sweeping the deck and probably can't ride.
+
+**I have a kid(s)! Should I worry?** No! While most guests will be nominally grown-up, kids are enouraged to come and particiapte.
+
+**How about my dog?** Sadly we ask for your pups to stay home that day.
+
+**But I'm not a musician!** That's great, me neither! There will be some participatory singing (see [the songlist](#songlist)), but otherwise it's a normal party.
+
+**I am a musician! Should I bring my Eurorack modular? How about my bouzouki? Crumhorn?** Most of the musician people coming play Irish and/or American folk music, so if you're down to hang in those traditons, yes! Otherwise, there will be more information forthcoming about participation.
 
 ---
 
-# Imprint & Privacy Policy
-
-Let's keep it simple. This is our contact information:
-
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
-
-E-mail: jane@doe.net
-Phone: 580-689-0577
-
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
-
----
-
-# Stay in touch
-
-Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
-
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
